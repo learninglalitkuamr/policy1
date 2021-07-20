@@ -1,0 +1,25 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "properties": {
+  "displayName": "Group1",
+  "policyDefinitionId": "/subscriptions/7abd03cb-82c2-41e5-bdbd-eb77a9d50acc/providers/Microsoft.Authorization/policySetDefinitions/08ab3cb1354f48269f572161",
+  "scope": "/subscriptions/7abd03cb-82c2-41e5-bdbd-eb77a9d50acc",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "admin1@work1396.onmicrosoft.com ",
+   "parameterScopes": {},
+   "createdBy": "6babb7b8-1bd2-4c04-83f8-312927ef8555",
+   "createdOn": "2021-07-20T04:10:12.3705575Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/7abd03cb-82c2-41e5-bdbd-eb77a9d50acc/providers/Microsoft.Authorization/policyAssignments/3bfd7dd9b9c64a98af18f14b",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "3bfd7dd9b9c64a98af18f14b"
+}
